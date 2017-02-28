@@ -1,0 +1,19 @@
+{
+  "name": "semantic-ui-vue",
+  "version": "0.0.1",
+  "description": "Semantic UI for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alnorris/semantic-ui-vue.git"
+  },
+  "author": "Alister Norris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alnorris/semantic-ui-vue/issues"
+  },
+  "homepage": "https://github.com/alnorris/semantic-ui-vue#readme"
+}
